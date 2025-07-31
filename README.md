@@ -4,10 +4,10 @@
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
-- [Data Cleaning Prepration](#Data-Cleaning-Prepration)
+- [Data Prepration](#Data-Prepration)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Analysis](#Data-Analysis)
-- [Results Findings](#Results-Findings)
+- [Findings](#Findings)
 
 
 ### Project Overview
@@ -27,7 +27,7 @@ mention data set used for project like excel, csv file
  - [Download here]{https://microsoft.com}
 -power Bi -creating report
 
-### Data Cleaning/Prepration
+### Data Prepration
 
 In the initial data preparation phase, we performed the folowing tasks:
 1. Data loading and inspection.
@@ -48,7 +48,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 SELECT * FROM table
 ```
 
-###  Results/Findings
+###  Findings
 The analysis results are summarized as follow:
 
 write results
